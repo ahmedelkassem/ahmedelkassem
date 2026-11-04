@@ -2,7 +2,7 @@
 
 ### Junior Software Developer | Full-Stack & Web Development
 
-I'm a Practical Software Engineering student at ORT Braude College, passionate about software development, building web applications, and solving real-world problems through technology.
+I have completed my Practical Software Engineering studies at ORT Braude College and passed the MAHAT examinations. My official diploma is pending issuance. I'm passionate about software development, building web applications, and solving real-world problems through technology.
 
 I have hands-on experience developing academic projects using Java, PHP, JavaScript, MySQL, Angular, Android, and Firebase.
 
@@ -19,6 +19,12 @@ I'm currently seeking opportunities as a **Junior Software Developer, Full-Stack
 **Tools & Technologies:** Git, GitHub, Android Studio, Postman, Linux, Leaflet, Chart.js
 
 **Core Knowledge:** Object-Oriented Programming, Data Structures, Algorithms, Software Testing, and Database Design
+
+## Certificates & Training
+
+- **Artificial Intelligence (AI)**, 30-hour training program, ORT Colleges (2025).
+- **Practical Engineer+ (Power Skills)**, career success skills program, ORT Colleges / Beta Yeda (May 2025).
+- **AI Computer Course**, 40 academic hours, certificate of participation, Riyan Employment Center, Majd al-Krum.
 
 ## Featured Project
 
