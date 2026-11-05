@@ -20,6 +20,12 @@ I'm currently seeking opportunities as a **Junior Software Developer, Full-Stack
 
 **Core Knowledge:** Object-Oriented Programming, Data Structures, Algorithms, Software Testing, and Database Design
 
+## Volunteer Experience
+
+**Youth Department Volunteer | Local Council | Present**
+
+- Volunteering with the local council's Youth Department (מחלקת צעירים).
+
 ## Certificates & Training
 
 - **Artificial Intelligence (AI)**, 30-hour training program, ORT Colleges (2025).
